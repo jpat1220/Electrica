@@ -159,4 +159,3 @@ INSERT INTO incidentes (patineta_id, usuario_id, alquiler_id, tipo_incidente, de
 (8, 3, 8, 'Ruido en las ruedas', 'Las ruedas emitieron un ruido extraño durante el alquiler, pero no afectó el rendimiento.', '2025-05-08 09:30:00', 52.3676, 4.9041, 'Baja', 'Reportado', 'Revisión de las ruedas realizada'),
 (9, 4, 9, 'Accidente con el usuario', 'El usuario se cayó durante el alquiler debido a un bache, pero no sufrió daños.', '2025-05-09 15:30:00', 51.5074, -0.1278, 'Alta', 'Reportado', 'Revisión realizada y sin daños en la patineta'),
 (10, 5, 10, 'Problema con la conexión', 'La conexión de la app con la patineta se interrumpió durante el alquiler, causando inconvenientes.', '2025-05-10 16:00:00', 52.3676, 4.9041, 'Media', 'Reportado', 'Revisión y solución del problema');
-

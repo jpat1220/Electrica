@@ -50,6 +50,8 @@ $$ LANGUAGE plpgsql;
 --SELECT calcular_costo_estimado(4,5);
 
 -----------------------------------------------------------------------------------------
+-- Función para verificar disponibilidad de una patineta
+
 CREATE OR REPLACE FUNCTION disponibilidad_patineta(pid INT)
 RETURNS BOOLEAN AS $$
 DECLARE 
